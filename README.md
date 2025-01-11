@@ -21,14 +21,14 @@ Wget 🌐: A command-line tool used to download external files, like the pre-tra
 
 
 CONFIGURE AND SETUP:
-  pip install opencv-python
-  pip install imutils
-  pip install cmake
-  pip install dlib
-  pip install wget
+  1.pip install opencv-python
+ 2. pip install imutils
+ 3. pip install cmake
+ 4. pip install dlib
+ 5. pip install wget
 
 
   Common Errors and Fixes:
-Missing CMake Error: Ensure CMake is correctly installed and added to your PATH.
-Compiler Errors: Install Visual Studio Build Tools with the required workload.
-Unsupported Python Version: Ensure your Python version matches the precompiled .whl file if using that method.
+1.Missing CMake Error: Ensure CMake is correctly installed and added to your PATH.
+2.Compiler Errors: Install Visual Studio Build Tools with the required workload.
+3.Unsupported Python Version: Ensure your Python version matches the precompiled .whl file if using that method.
